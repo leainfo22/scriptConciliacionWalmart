@@ -1,0 +1,7 @@
+D:\lvasquez\Documents\Visual Studio 2019\scriptConciliador\scriptConciliador\obj\Debug\scriptConciliador.csproj.CoreCompileInputs.cache
+D:\lvasquez\Documents\Visual Studio 2019\scriptConciliador\scriptConciliador\obj\Debug\scriptConciliador.csprojAssemblyReference.cache
+D:\lvasquez\Documents\Visual Studio 2019\scriptConciliador\scriptConciliador\bin\Debug\scriptConciliador.exe.config
+D:\lvasquez\Documents\Visual Studio 2019\scriptConciliador\scriptConciliador\bin\Debug\scriptConciliador.exe
+D:\lvasquez\Documents\Visual Studio 2019\scriptConciliador\scriptConciliador\bin\Debug\scriptConciliador.pdb
+D:\lvasquez\Documents\Visual Studio 2019\scriptConciliador\scriptConciliador\obj\Debug\scriptConciliador.exe
+D:\lvasquez\Documents\Visual Studio 2019\scriptConciliador\scriptConciliador\obj\Debug\scriptConciliador.pdb

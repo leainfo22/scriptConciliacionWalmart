@@ -1,0 +1,2 @@
+CAPTURE-20210114.csv:Solicitud de captura por una orden que no existe:INPA-98041610021296501::70743,
+CAPTURE-20210115.csv:Solicitud de captura por una orden que no existe:INPA-43281610108574413::17403,
