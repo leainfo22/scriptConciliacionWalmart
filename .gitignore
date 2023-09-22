@@ -1,0 +1,12 @@
+﻿################################################################################
+# Este archivo .gitignore ha sido creado automáticamente por Microsoft(R) Visual Studio.
+################################################################################
+
+/scriptConciliador/obj/Release/DesignTimeResolveAssemblyReferencesInput.cache
+/.vs/scriptConciliador
+/scriptConciliador/obj/Release
+/scriptConciliador/bin/Release/scriptConciliador.pdb
+/scriptConciliador/bin/Release/scriptConciliador.exe
+/scriptConciliador/obj/Release/scriptConciliador.csproj.FileListAbsolute.txt
+/scriptConciliador/obj/Release/scriptConciliador.pdb
+/scriptConciliador/obj/Release/scriptConciliador.exe
